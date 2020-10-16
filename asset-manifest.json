@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unit-4-assessment/static/css/main.a21c980e.chunk.css",
+    "main.js": "/unit-4-assessment/static/js/main.e0a24daa.chunk.js",
+    "main.js.map": "/unit-4-assessment/static/js/main.e0a24daa.chunk.js.map",
+    "runtime-main.js": "/unit-4-assessment/static/js/runtime-main.5ab301f9.js",
+    "runtime-main.js.map": "/unit-4-assessment/static/js/runtime-main.5ab301f9.js.map",
+    "static/js/2.bf5bcacf.chunk.js": "/unit-4-assessment/static/js/2.bf5bcacf.chunk.js",
+    "static/js/2.bf5bcacf.chunk.js.map": "/unit-4-assessment/static/js/2.bf5bcacf.chunk.js.map",
+    "index.html": "/unit-4-assessment/index.html",
+    "precache-manifest.5c3cb2840350099e3fdf8d4879c80d7f.js": "/unit-4-assessment/precache-manifest.5c3cb2840350099e3fdf8d4879c80d7f.js",
+    "service-worker.js": "/unit-4-assessment/service-worker.js",
+    "static/css/main.a21c980e.chunk.css.map": "/unit-4-assessment/static/css/main.a21c980e.chunk.css.map",
+    "static/js/2.bf5bcacf.chunk.js.LICENSE.txt": "/unit-4-assessment/static/js/2.bf5bcacf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab301f9.js",
+    "static/js/2.bf5bcacf.chunk.js",
+    "static/css/main.a21c980e.chunk.css",
+    "static/js/main.e0a24daa.chunk.js"
+  ]
+}
